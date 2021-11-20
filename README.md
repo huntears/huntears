@@ -16,7 +16,7 @@ Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
 # Activity
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/293802685700767745)](https://discord.com/users/293802685700767745)
 
-# Art of my OC
+# Arts of my OC
 <img align="left" src="https://huntears.github.io/sleep/1_com.png" width=200>
 <img align="left" src="https://huntears.github.io/sleep/2_com.png" width=200>
 <img align="left" src="https://huntears.github.io/sleep/3_com.png" width=200>
