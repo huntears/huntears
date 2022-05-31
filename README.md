@@ -14,3 +14,5 @@ Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
 
 # Activity
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/293802685700767745)](https://discord.com/users/293802685700767745)
+
+![](https://hit.yhype.me/github/profile?user_id=44233177)
