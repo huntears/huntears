@@ -1,18 +1,2 @@
-<img align="left" src="https://huntears.github.io/sleep/Com_2_min.png" width=200>
-
-<!-- [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat-square&labelColor=313131&color=313131)](https://github.com/orhun.gpg) -->
-[![linkedin](https://img.shields.io/badge/-@alexandre--flion-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/alexandre-flion/)
-
-Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
-
-<!-- Ok I know this is not the good way to do it, but for now it will do -->
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-# Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/293802685700767745)](https://discord.com/users/293802685700767745)
-
-![](https://hit.yhype.me/github/profile?user_id=44233177)
+# MIGRATED REPOS TO SOURCEHUT
+[sourcehut](https://git.sr.ht/~huntears/)
