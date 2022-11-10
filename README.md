@@ -1,2 +1,2 @@
-# MIGRATED REPOS TO SOURCEHUT
-[sourcehut](https://git.sr.ht/~huntears/)
+# MIGRATED REPOS TO MY GITEA INSTANCE
+[Gitea profile](https://git.kreog.com/huntears)
