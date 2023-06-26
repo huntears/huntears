@@ -1,2 +1,2 @@
-# MIGRATED REPOS TO MY GITEA INSTANCE
-[Gitea profile](https://git.kreog.com/huntears)
+# MIGRATED REPOS TO GITLAB
+[GitLab profile](https://gitlab.com/users/huntears)
