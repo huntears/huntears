@@ -17,7 +17,6 @@ img {
 ├─▣ <a href="https://huntears.com/">huntears's den</a>
 │
 └───────────────────────────────▰▰▰
-
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://fosstodon.org/@huntears">Mastodon</a>
@@ -25,7 +24,6 @@ img {
 ├─◈ <a href="https://www.linkedin.com/in/alexandre-flion">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
-
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/CubicMC/cubic-server">CubicServer</a>
