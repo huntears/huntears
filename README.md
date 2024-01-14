@@ -38,6 +38,6 @@ img {
 
 ## Time coding
 
-![:code_time](https://waka.kreog.com/api/badge/huntears/huntears/interval:30_days?label=last30d)
+![:code_time](https://wakatime.com/badge/user/a7a0d752-bfff-4f5a-9ff7-764b3447a409.svg)
 
-![:total_code_time](https://github-readme-stats.vercel.app/api/wakatime?username=huntears&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Total%20Stats&layout=compact)
+![:total_code_time](https://github-readme-stats.vercel.app/api/wakatime?username=huntears&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakatime%20Total%20Stats&layout=compact)
