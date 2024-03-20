@@ -38,5 +38,5 @@ img {
 
 ## Time coding
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
