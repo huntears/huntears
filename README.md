@@ -39,4 +39,22 @@ img {
 ## Time coding
 
 <!--START_SECTION:wakatime-->
+
+```rust
+From: 08 November 2020 - To: 19 March 2024
+
+Total Time: 81 hrs 36 mins
+
+Other            542 hrs 15 mins >>>>>>>>>>>>>>>>>>>>>>---   86.92 %
+C++              42 hrs 46 mins  >>-----------------------   06.86 %
+C                14 hrs 17 mins  >------------------------   02.29 %
+Markdown         5 hrs 40 mins   -------------------------   00.91 %
+Python           3 hrs 14 mins   -------------------------   00.52 %
+Haskell          3 hrs 9 mins    -------------------------   00.51 %
+Zig              2 hrs 25 mins   -------------------------   00.39 %
+Bash             2 hrs 2 mins    -------------------------   00.33 %
+Makefile         1 hr 54 mins    -------------------------   00.30 %
+CMake            1 hr 18 mins    -------------------------   00.21 %
+```
+
 <!--END_SECTION:wakatime-->
