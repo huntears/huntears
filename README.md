@@ -43,7 +43,7 @@ img {
 ```rust
 From: 01 April 2023 - To: 31 March 2024
 
-Total Time: 655 hrs 34 mins
+Total Time: 37 hrs 57 mins
 
 Other            617 hrs 37 mins >>>>>>>>>>>>>>>>>>>>>>>>-   94.21 %
 C                7 hrs 57 mins   -------------------------   01.21 %
