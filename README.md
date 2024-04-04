@@ -41,11 +41,11 @@ img {
 <!--START_SECTION:wakatime-->
 
 ```rust
-From: 04 April 2023 - To: 03 April 2024
+From: 05 April 2023 - To: 04 April 2024
 
 Total Time: 42 hrs 50 mins
 
-Other            624 hrs 13 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.58 %
+Other            624 hrs 15 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.58 %
 C++              10 hrs 36 mins  -------------------------   01.59 %
 C                8 hrs 57 mins   -------------------------   01.34 %
 Markdown         5 hrs 39 mins   -------------------------   00.85 %
