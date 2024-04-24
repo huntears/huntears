@@ -63,3 +63,5 @@ JSON             52 mins         -------------------------   00.50 %
 ```
 
 <!--END_SECTION:wakatime-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=huntears)](https://git.io/streak-stats)
