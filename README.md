@@ -28,6 +28,7 @@ img {
 │
 ├─◈ <a href="https://github.com/CubicMC/cubic-server">CubicServer</a>
 ├─◈ <a href="https://github.com/Epitech/B-AIA-500_liskvork">liskvork</a>
+├─◈ <a href="https://github.com/Miou-zora/Zaytracer">Zaytracer</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
