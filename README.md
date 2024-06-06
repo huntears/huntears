@@ -33,10 +33,6 @@ img {
 └───────────────────────────────▰▰▰
 </pre>
 
-## Visitors
-
-![:name](https://count.getloli.com/get/@huntears?theme=rule34)
-
 ## Time coding
 
 <!--START_SECTION:wakatime-->
