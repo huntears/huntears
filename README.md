@@ -61,4 +61,4 @@ Svelte            1 hr 23 mins    -------------------------   00.72 %
 
 <!--END_SECTION:wakatime-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=huntears)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=emneo-dev)](https://git.io/streak-stats)
